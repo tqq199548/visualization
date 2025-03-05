@@ -34,7 +34,9 @@ How to improve: simplify the dashboard in to a more tidy way, focusing on the mo
 
 
 
-
+A2: Can you explain a bit more on the reasoning of why they are good or bad? For example, when you mention there's excessive information, can you point out what exactly is excessive?
+Good: Aesthetic Appeal: The color scheme is well-chosen to create an engaging and informative experience. Layout and typography are clear, making the visualization easy to follow. Also the visualization effectively presents statistics related to dyslexia while maintaining readability. Proper labeling and interactive features allow for deeper exploration of the data. Besides, the interactive elements allow users to personalize their exploration of the data.
+Bad: Overwhelming Information: The dashboard presents an excessive amount of data at once, making it challenging for viewers to focus on key insights.​ Inconsistent Design Elements: There is a lack of uniformity in color schemes, fonts, and chart types, leading to a disjointed and confusing user experience.​ Poor Layout and Spacing: The arrangement of charts and graphs is cluttered, with inadequate spacing, making it hard to distinguish between different data sections.
 
 
       

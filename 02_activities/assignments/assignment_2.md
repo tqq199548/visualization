@@ -10,9 +10,11 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
+
+      Good example: 
       Your answer...
-
-
+     source: https://public.tableau.com/app/profile/jennifer.cook/viz/Dyslexiaabattlewithwordsandself-worth/DyslexiaWordsandSelfWorth
+     this is a good example, it shows the color scheme to create an engaging and informative data. Layout is clear and easy to follow the visualization. Also has good annotations to help explain the importance of the insights presented. 
 
 
 
@@ -22,10 +24,19 @@
     - How could this data visualization have been improved?  
       ```
       Your answer...
+      more detailed legend can help useres to quickly understand different visual elements. Also text elements could be resized or repositioned to enhance readability. 
+
+Bad example: 
+Source :https://public.tableau.com/app/profile/ray3296/viz/BetterFirstDashboard/Instructions
+Explaination: this is a bad example for me, becuase there is too much infromation, it presents on axcessive amount of data at once. Make me confused. Also the color, fonts and chart typs are lack of uniformity. 
+The charts and graphs is cluttered. 
+How to improve: simplify the dashboard in to a more tidy way, focusing on the most relevant data to audiance. Organize the dashboard with clear sections and space to improve readability and user engagement. 
 
 
 
-
+A2: Can you explain a bit more on the reasoning of why they are good or bad? For example, when you mention there's excessive information, can you point out what exactly is excessive?
+Good: Aesthetic Appeal: The color scheme is well-chosen to create an engaging and informative experience. Layout and typography are clear, making the visualization easy to follow. Also the visualization effectively presents statistics related to dyslexia while maintaining readability. Proper labeling and interactive features allow for deeper exploration of the data. Besides, the interactive elements allow users to personalize their exploration of the data.
+Bad: Overwhelming Information: The dashboard presents an excessive amount of data at once, making it challenging for viewers to focus on key insights.​ Inconsistent Design Elements: There is a lack of uniformity in color schemes, fonts, and chart types, leading to a disjointed and confusing user experience.​ Poor Layout and Spacing: The arrangement of charts and graphs is cluttered, with inadequate spacing, making it hard to distinguish between different data sections.
 
 
       

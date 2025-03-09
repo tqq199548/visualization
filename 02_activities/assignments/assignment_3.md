@@ -8,25 +8,39 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
-
+Python (matplotlib and Seaborn) &Excel
     > Who is your intended audience? 
-    
+    Audience includes city residents, governement officials, policy analysts, and journalists who are interested in understanding the attendance trends of Toronto City Councillors over time.
     > What information or message are you trying to convey with your visualization? 
-    
+The heatmap and bar chart present average attendance rate of councillors over deliver council terms (2006-2026). It helps identify patterns in attendance, wheather attendance has improved or decliened. Also highlights which committes have high engagement and which need to improve. 
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
-    
+Substantive: data is aggregated by committe and council term for a clear comparison. 
+Perceptual: heatmap color gradient helps distinguish high and low attendance.  
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    
+ Python code is included in the appendix also with #explaination , allowing orders to review and replicate   
+ Excel file: it contains the raw dataset and embadded bar chart to alloing others to reprduce 
     > How did you ensure that your data visualization is accessible?  
-    
+Pythone Heatmap uses a clear color gradient to differentiate values. Proper font sizes and labeled axes enhance readability.
+Excel bar chart has axies labels and numerical values make data interpretation straightforward. 
     > Who are the individuals and communities who might be impacted by your visualization?  
-    
+City residents: help them assess committee engagement levels
+City officials: can use this to improve the service 
+media: useful for evaluating governmeent progress 
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    
+  include committee attendance rates per council term for historial trends 
+  Excluded individual councillor detials to focus on the overall committee level engagement.   
     > What ‘underwater labour’ contributed to your final data visualization product?
+Data cleaning and visiualization optimization on pythone
+Data compilation and excel chart formating on excel 
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
+
+ Data source : https://open.toronto.ca/dataset/members-of-toronto-city-council-meeting-attendance/
+Members of Toronto City Council - Meeting Attendance
+![alt text](image.png)
+![alt text](image-1.png)
+Conclusion: These visualizations help policymakers, researchers, and the public assess councillor engagement effectively. Significant data preparation, analysis, and visualization refinements were made to ensure clarity and impact.
  
 ### Why am I doing this assignment?:  
 - This ongoing assignment ensures active participation in the course, and assesses the learning outcomes: 
